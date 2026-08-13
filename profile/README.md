@@ -1,6 +1,7 @@
 # chyawanprash pirates
 
-<img width="813" height="311" alt="image" src="https://github.com/user-attachments/assets/e49fa990-55fe-44a2-85f0-09038a44a183" />
+<img width="813" height="311" alt="image" src="https://github.com/user-attachments/assets/dc36e2ab-a752-479f-a3d6-5982440b711a" />
+
 
 ---
 
